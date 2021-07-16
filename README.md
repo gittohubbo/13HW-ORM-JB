@@ -9,8 +9,8 @@ Your task is to build the back end for an e-commerce site by modifying starter c
 Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. You’ll need to submit a link to the video and add it to the readme of your project.
 
 ## Application Images
-Tags
-Categories
+<img width="1389" alt="Categories" src="https://user-images.githubusercontent.com/80935701/125892734-24a0be63-ac16-4a24-926a-62d83e960d4f.png">
+<img width="1391" alt="Tags" src="https://user-images.githubusercontent.com/80935701/125892749-6b779a4b-c55d-4b2b-b4d0-52129e1622c6.png">
 
 ## Repository URL
 https://github.com/gittohubbo/13HW-ORM-JB
